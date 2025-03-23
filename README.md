@@ -1,4 +1,3 @@
-coming soon few things to build and convert...................
 new methods better results full application coming soon 
 
 ![Screenshot_20250323_134529](https://github.com/user-attachments/assets/16b393d6-5eae-42e5-b523-a8608533a5fd)
