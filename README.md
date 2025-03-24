@@ -17,7 +17,7 @@ the system assu is built on is Artix Openrc
   <div align="center">
 the system assu is built on is no means a form of a daily driver its for backup purposes only
     <div align="center">
-photos show below arent the finished project its in beta! Things are being changed
+photos shown below of the this terminal script arent the finished project its in beta! Things are being changed
       
 ![Main Menu](https://github.com/user-attachments/assets/bba5db4b-af10-4ff0-aa3d-e162396343a8)
 ![Installer](https://github.com/user-attachments/assets/09829840-b892-41a0-b5c1-87bd870e70e1)
