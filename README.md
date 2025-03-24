@@ -1,4 +1,4 @@
-# Apex Arch System Utility (ASSU) 🔄
+# Apex Arch System Utility (assu) 🔄
 
 > **New methods, better results** - Full application coming soon!  
 
