@@ -18,7 +18,7 @@
 
 ## ⚠️ Important Notes
 - **Not a daily driver**: Designed specifically for backup purposes
-- **Beta status**: Screenshots below show work in progress - features may change
+- **Beta status**: Screenshots below show work in progress on the script - features may change
 
       
 ![Main Menu](https://github.com/user-attachments/assets/bba5db4b-af10-4ff0-aa3d-e162396343a8)
