@@ -10,11 +10,10 @@
 - Includes custom installers to transform assu into a complete backup solution
 
 ## 🔧 Key Features
-- Built on Artix OpenRC
 - application works with or without my system images
-- prebuilt lightweight assu system images:
-  - **ISO**: 700MB download → 2.4GB installed
-  - **IMG.XZ**: 600MB download → 2.4GB installed
+- lightweight aasu System Images Built on Artix OpenRC
+- **ISO**: 700MB download → 2.4GB installed
+- **IMG.XZ**: 600MB download → 2.4GB installed
 
 
 ## ⚠️ Important Notes
