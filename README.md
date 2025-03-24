@@ -10,6 +10,9 @@
 - Includes custom installers to transform assu into a complete backup solution
 
 ## 🔧 Key Features
+- backup other drives into a installable iso or img.xz
+- back your system into iso or img.xz
+- new methods to install custom systems
 - application works with or without my system images
 - lightweight aasu System Images Built on Artix OpenRC Without A Desktop
 - **ISO**: 700MB download → 2.4GB installed
