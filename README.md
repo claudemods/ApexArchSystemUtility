@@ -11,7 +11,7 @@
 
 ## 🔧 Key Features
 - application works with or without my system images
-- lightweight aasu System Images Built on Artix OpenRC With A Desktop
+- lightweight aasu System Images Built on Artix OpenRC Without A Desktop
 - **ISO**: 700MB download → 2.4GB installed
 - **IMG.XZ**: 600MB download → 2.4GB installed
 
