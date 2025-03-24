@@ -1,8 +1,8 @@
 new methods better results full application coming soon 
 
 ![Main Menu](https://github.com/user-attachments/assets/22f9e193-9bae-4dce-ad12-b486a1b71442)
-![Installer](https://github.com/user-attachments/assets/655b5785-3cc5-4e80-91d2-acc1de628ed4)
-![Cloners](https://github.com/user-attachments/assets/6f157185-d800-438d-bde1-bb348788c639)
+![Installer](https://github.com/user-attachments/assets/8b0343ba-286e-4c40-b1d1-3664dfa5729b)
+![Cloners](https://github.com/user-attachments/assets/c686a56d-74c5-44b6-b03d-ae1dbe578ec5)
 
 
 
