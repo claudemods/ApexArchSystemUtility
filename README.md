@@ -12,7 +12,7 @@
 ## 🔧 Key Features
 - Built on Artix OpenRC
 - application works with or without my system images
-- prebuilt lightweight system images:
+- prebuilt lightweight assu system images:
   - **ISO**: 700MB download → 2.4GB installed
   - **IMG.XZ**: 600MB download → 2.4GB installed
 
