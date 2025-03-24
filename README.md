@@ -17,7 +17,7 @@
 
 
 ## ⚠️ Important Notes
-- **Not a daily driver**: my system images are designed specifically for backup purposes
+- **Not a daily driver**: my system images are designed specifically for backup and install of custom distros
 - **Beta status**: Screenshots below show work in progress on the script - features may change
 
       
