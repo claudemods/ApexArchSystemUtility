@@ -10,11 +10,12 @@
 - Includes custom installers to transform assu into a complete backup solution
 
 ## 🔧 Key Features
+- Built on Artix OpenRC
 - application works with or without my pre-configured images
-- lightweight downloads with efficient installed sizes:
+- lightweight system with efficient installed sizes:
   - **ISO**: 700MB download → 2.4GB installed
   - **IMG.XZ**: 600MB download → 2.4GB installed
-- Built on Artix OpenRC
+
 
 ## ⚠️ Important Notes
 - **Not a daily driver**: Designed specifically for backup purposes
