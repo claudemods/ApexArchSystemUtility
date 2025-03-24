@@ -18,7 +18,7 @@
 
 
 ## ⚠️ Important Notes
-- **Not a daily driver**: Designed specifically for backup purposes
+- **Not a daily driver**: my system is Designed specifically for backup purposes
 - **Beta status**: Screenshots below show work in progress on the script - features may change
 
       
