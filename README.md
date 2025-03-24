@@ -5,7 +5,7 @@
 **aasu** provides advanced system backup capabilities, allowing you to create installable system images.
 
 ## 📦 Upcoming Releases
-- New `.iso` and `.img.xz` formats with aasu pre-installed
+- New `.iso` and `.img.xz` formats with aasu pre-installed coming!
 - Base system designed for backing up drives to installable formats
 - Includes custom installers to transform assu into a complete backup solution
 
