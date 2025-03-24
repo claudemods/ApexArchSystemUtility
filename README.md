@@ -1,11 +1,11 @@
-# Apex Arch System Utility (assu) 🔄
+# Apex Arch System Utility (aasu) 🔄
 
 > **New methods, better results** - Full application coming soon!  
 
-**assu** provides advanced system backup capabilities, allowing you to create installable system images.
+**aasu** provides advanced system backup capabilities, allowing you to create installable system images.
 
 ## 📦 Upcoming Releases
-- New `.iso` and `.img.xz` formats with assu pre-installed
+- New `.iso` and `.img.xz` formats with aasu pre-installed
 - Base system designed for backing up drives to installable formats
 - Includes custom installers to transform assu into a complete backup solution
 
