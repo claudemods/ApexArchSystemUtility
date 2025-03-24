@@ -10,8 +10,8 @@
 - Includes custom installers to transform assu into a complete backup solution
 
 ## 🔧 Key Features
-- Works with or without our pre-configured images
-- Lightweight downloads with efficient installed sizes:
+- application works with or without my pre-configured images
+- lightweight downloads with efficient installed sizes:
   - **ISO**: 700MB download → 2.4GB installed
   - **IMG.XZ**: 600MB download → 2.4GB installed
 - Built on Artix OpenRC
