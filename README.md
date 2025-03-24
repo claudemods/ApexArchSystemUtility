@@ -2,12 +2,12 @@
 
 > **New methods, better results** - Full application coming soon!  
 
-**ASSU** provides advanced system backup capabilities, allowing you to create installable system images.
+**assu** provides advanced system backup capabilities, allowing you to create installable system images.
 
 ## 📦 Upcoming Releases
-- New `.iso` and `.img.xz` formats with ASSU pre-installed
+- New `.iso` and `.img.xz` formats with assu pre-installed
 - Base system designed for backing up drives to installable formats
-- Includes custom installers to transform ASSU into a complete backup solution
+- Includes custom installers to transform assu into a complete backup solution
 
 ## 🔧 Key Features
 - Works with or without our pre-configured images
