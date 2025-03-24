@@ -1,3 +1,4 @@
+<div align="center">
 new methods better results full application coming soon
 <div align="center">
 new iso and img.xz coming with Apex Arch System Utility installed
