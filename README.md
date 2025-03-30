@@ -25,5 +25,9 @@
 
 ![Main Menu](https://github.com/user-attachments/assets/e3968e52-a73d-484b-85b5-97eb2e3f7c9b)
 ![Installer](https://github.com/user-attachments/assets/09829840-b892-41a0-b5c1-87bd870e70e1)
-![Cloners](https://github.com/user-attachments/assets/24b28371-4c56-4d1e-895d-c644d8e42422)
+![Cloning Tools](https://github.com/user-attachments/assets/1a6d57f3-6652-481d-b6ae-184305c6cac5)
+![Squashfs menu](https://github.com/user-attachments/assets/a1088ce9-aad9-4c04-8795-82e1b9b5b56c)
+![img.xz menu](https://github.com/user-attachments/assets/630410e4-9af5-4d86-9600-bcef2d2df6dd)
+
+
 
