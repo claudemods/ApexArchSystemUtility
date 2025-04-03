@@ -21,7 +21,7 @@
 
 ## ⚠️ Important Notes
 - **Not a daily driver**: my system images are designed specifically for backup and install of custom distros
-- **Beta status**: Screenshots below show work in progress on the script - features may change
+- **Alpha status**: Screenshots below show work in progress on the script - features may change
 
 ![Main Menu](https://github.com/user-attachments/assets/e3968e52-a73d-484b-85b5-97eb2e3f7c9b)
 ![Installer](https://github.com/user-attachments/assets/09829840-b892-41a0-b5c1-87bd870e70e1)
